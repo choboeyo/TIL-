@@ -82,8 +82,9 @@ function () {
 # 이미지
 
 <img src="./img/1.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="pracitce"></img><br/>
+![poster](./img/1.jpeg)
 
 # 줄바꿈
 
-3칸이상 띄어쓰기하면 하고 엔터하면 바뀐다.
-또는 br <br/>
+3칸이상 띄어쓰기하면 하고 엔터하면 바뀐다. <br/>
+또는 br
