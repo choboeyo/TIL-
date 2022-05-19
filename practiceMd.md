@@ -12,13 +12,15 @@
 
 ###### 그다음 작은 크기의 text로 변환
 
-# H1,~ H6
+# BlockQuote
 
 > 안녕하세요
 >
 > > 저는
 > >
-> > > may-june 입니다.
+> > > youjung Kim 입니다.
+
+# list
 
 1. 안녕하세요
 2. 오늘하루도
@@ -39,7 +41,7 @@
 
   안녕하세요
 
-#
+# codeblock
 
 ```javascript
 function () {
@@ -67,12 +69,6 @@ function () {
 
 ---
 
-## 수평
-
-## 수평
-
-수평
-
 # 링크
 
 외부링크
@@ -82,3 +78,12 @@ function () {
 자동연결
 외부링크: <http://example.com/>
 이메일링크: <address@example.com>`
+
+# 이미지
+
+<img src="./img/1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
+# 줄바꿈
+
+3칸이상 띄어쓰기하면 하고 엔터하면 바뀐다.
+또는 br <br/>
