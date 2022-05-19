@@ -81,7 +81,7 @@ function () {
 
 # 이미지
 
-<img src="./img/1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="./img/1.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="pracitce"></img><br/>
 
 # 줄바꿈
 
