@@ -29,7 +29,7 @@ function infiniteAnimate(): never {
   while ( true ) { infiniteAnimate(); }
 }
 
-//enum ->  열거형 데이터 타입을 지원
+//enum ->  열거형 데이터 타입을 지원 d
 enum Team {
   Manager,   // 0
   Planner,   // 1
