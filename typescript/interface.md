@@ -34,7 +34,7 @@ interface IsAdult {
     (age:number):boolean;
 }
 const a:IsAdult = (age) => {
-    return age > 20;
+    return age > 20
 }
 
 ```
