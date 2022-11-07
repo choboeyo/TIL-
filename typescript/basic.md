@@ -18,7 +18,7 @@ b[1].toLowerCase(); // 불가능
 
 //void =>함수가 아무것도 반환하지 않을때
 function sayHello():void {
-    console.log('hello')
+    console.log('hello');
 }
 
 //never => 항상 오류를 출력하거나 리턴 값을 절대로 내보내지 않을때
