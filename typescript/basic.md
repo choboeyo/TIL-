@@ -36,7 +36,7 @@ enum Team {
   Developer, // 2
   Designer,  // 3
 }
-let sarha:number = Team.Designer; // (enum member) Team.Designer = 3
+let sarha:number = Team.Designer; // (enum member) Team.Designer =3
 
 //enum에 설정된 아이템에 값을 할당할 수도 있습니다. 값이 할당되지 않은 아이템은 이전 아이템의 값에 +1된 값이 설정됩니다
 enum Team {
