@@ -16,7 +16,7 @@ b = [1, 'z'] // 불가능
 b[0].toLowerCase(); // 가능
 b[1].toLowerCase(); // 불가능
 
-//void =>함수가 아무것도 반환하지 않을때임 d
+//void =>함수가 아무것도 반환하지 않을때임
 function sayHello():void {
     console.log('hello')
 }
