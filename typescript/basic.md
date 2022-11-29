@@ -21,7 +21,7 @@ function sayHello():void {
     console.log('hello')
 }
 
-//never => 항상 오류를 출력하거나 리턴 값을 절대로 내보내지 않을때
+//never => 항상 오류를 출력하거나 리턴 값을 절대로 내보내지 않을때임d
 function invalid(message:string): never {
   throw new Error(message);
 }
