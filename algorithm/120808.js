@@ -19,5 +19,5 @@ function solution(numer1, denom1, numer2, denom2) {
     }
   }
   let gcdResult = gcd(bunmo, bunja);
-  return [bunja / gcdResult, bunmo / gcdResult];
+  return [bunja / gcdResult, bunmo / gcdResult]; 
 }
