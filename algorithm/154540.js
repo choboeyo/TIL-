@@ -51,6 +51,7 @@ function solution(maps) {
     );
   }
 
+
   for (let i = 0; i < splitMaps.length; i++) {
     for (let j = 0; j < splitMaps[i].length; j++) {
       if (splitMaps[i][j] !== "X") {
